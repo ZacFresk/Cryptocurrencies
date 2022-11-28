@@ -9,6 +9,6 @@ After distilling the cryptos down we then created several visuals:
   
 Each of these visual representations are interactive.
 
-![1](../../../../../../../c:/Users/Zack.Computer/OneDrive/Documents/GitHub/Cryptocurrencies/1.png)
-![2](../../../../../../../c:/Users/Zack.Computer/OneDrive/Documents/GitHub/Cryptocurrencies/2.png)
-![3](../../../../../../../c:/Users/Zack.Computer/OneDrive/Documents/GitHub/Cryptocurrencies/3.png)
+![1](https://user-images.githubusercontent.com/107363203/204192963-b3a41760-5d09-43da-8cfb-8481c9d4a6fb.png)
+![2](https://user-images.githubusercontent.com/107363203/204192976-f898cce0-c1a5-40fd-8efc-b07ba124ecef.png)
+![3](https://user-images.githubusercontent.com/107363203/204192977-c80a8d13-0016-4c92-a5e4-876d4b2ccdfc.png)
